@@ -1,3 +1,3 @@
-module github.com/SCorky/yGoPackage
+module github.com/SCorky/yGoModule
 
 go 1.18
