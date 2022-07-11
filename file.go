@@ -1,5 +1,5 @@
-package somepackage
+package yGoPackage
 
-func Func() {
-
+func Add(a, b int) int {
+	return a + b
 }
